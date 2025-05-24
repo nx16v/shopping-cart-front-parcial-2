@@ -1,21 +1,7 @@
-# Shopping Cart Front - Parcial 2
+Shopping Cart Front Parcial 2
 
-Este proyecto es una interfaz web responsiva que permite gestionar usuarios, productos y carritos de compras usando la API de DummyJSON.
+Este es un proyecto web desarrollado como parte del segundo parcial de la materia. La aplicación implementa una interfaz responsiva para gestionar usuarios, productos y carritos de compras, consumiendo datos desde la API pública DummyJSON.
 
-## 🚀 Tecnologías
-- HTML, CSS, JS
-- Bootstrap 5
-- DummyJSON API
-
-## 📂 Estructura
-- Login con validación básica
-- Vistas para usuarios, productos y carritos
-- Uso de modales para ver detalles
-
-## 👨‍💻 Instrucciones
-1. Clona el repositorio
-2. Abre `login.html` en tu navegador
-3. Simula el ingreso para ver el menú principal
-
-## 🧑‍🤝‍🧑 Desarrolladores
-- Tu Nombre Aquí
+Integrantes del grupo
+nixon verjel 192315
+juan patiño 192431
